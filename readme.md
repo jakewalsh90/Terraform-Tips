@@ -4,7 +4,9 @@
 
 This Repo is all about sharing Tips and Tricks learnt using Terraform. It will contain small examples, samples, snippets, and more. With each tip or trick a code sample is included, along with an explanation, and screenshots if necessary. 
 
-List of Tips and Tricks:
+<hr>
+
+## List of Tips and Tricks:
 
 1. [Using Count and Length together.](https://github.com/jakewalsh90/Terraform-Tips#1-using-count-and-length-together)
 
