@@ -2,7 +2,9 @@
 
 [![Check Links](https://github.com/jakewalsh90/Terraform-Tips/actions/workflows/links.yml/badge.svg)](https://github.com/jakewalsh90/Terraform-Tips/actions/workflows/links.yml)
 
-This Repo is all about sharing Tips and Tricks learnt using Terraform. It will contain small examples, samples, snippets, and more. With each tip or trick a code sample is included, along with an explanation, and screenshots if necessary. 
+This Repo is all about sharing Tips and Tricks learnt using whilst Terraform. It will contain small examples, samples, snippets, and more. With each tip or trick a code sample is included, along with an explanation, and screenshots if necessary. 
+
+#### Want to Contribute? Please read the guide [here](contributing.md)
 
 <hr>
 
