@@ -2,9 +2,9 @@
 
 [![Check Links](https://github.com/jakewalsh90/Terraform-Tips/actions/workflows/links.yml/badge.svg)](https://github.com/jakewalsh90/Terraform-Tips/actions/workflows/links.yml)
 
-Within this file I have included smaller arguments, snippets, and useful tips I've learnt!
+This Repo is all about sharing Tips and Tricks learnt using Terraform. It will contain small examples, samples, snippets, and more. With each tip or trick a code sample is included, along with an explanation, and screenshots if necessary. 
 
-A list of examples is below:
+List of Tips and Tricks:
 
 1. [Using Count and Length together.](https://github.com/jakewalsh90/Terraform-Tips#1-using-count-and-length-together)
 
