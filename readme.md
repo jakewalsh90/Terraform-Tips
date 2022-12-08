@@ -10,4 +10,4 @@ This Repo is all about sharing Tips and Tricks learnt using whilst Terraform. It
 
 ### List of Tips and Tricks:
 
-1. [Using Count and Length together.](/Count-and-Length/Count-and-Length.md)
+1. [Using Count and Length together](/Count-and-Length/Count-and-Length.md) - This explains how to use Count and Length together, allowing dependent Resource creation based on others that use Count. 
