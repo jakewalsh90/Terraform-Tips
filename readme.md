@@ -1,4 +1,4 @@
-## Readme
+## Terraform Tips and Tricks
 
 [![Check Links](https://github.com/jakewalsh90/Terraform-Tips/actions/workflows/links.yml/badge.svg)](https://github.com/jakewalsh90/Terraform-Tips/actions/workflows/links.yml)
 
@@ -6,7 +6,7 @@ This Repo is all about sharing Tips and Tricks learnt using Terraform. It will c
 
 <hr>
 
-## List of Tips and Tricks:
+### List of Tips and Tricks:
 
 1. [Using Count and Length together.](https://github.com/jakewalsh90/Terraform-Tips#1-using-count-and-length-together)
 
