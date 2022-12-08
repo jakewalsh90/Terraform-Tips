@@ -4,7 +4,7 @@ Within this file I have included smaller arguments, snippets, and useful tips I'
 
 A list of examples is below:
 
-1. [Using Count and Length together.](https://github.com/jakewalsh90/Terraform-Tips/tree/main/Useful-Tips#1-using-count-and-length-together)
+1. [Using Count and Length together.](https://github.com/jakewalsh90/Terraform-Tips#1-using-count-and-length-together)
 
 <hr>
 
