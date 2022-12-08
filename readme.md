@@ -4,7 +4,7 @@
 
 This Repo is all about sharing Tips and Tricks learnt using whilst Terraform. It will contain small examples, samples, snippets, and more. With each tip or trick a code sample is included, along with an explanation, and screenshots if necessary. 
 
-#### ❓ Want to Contribute? Please read the guide [here](contributing.md).
+#### ❓ Want to Contribute a Tip or Trick? Please read the guide [here](contributing.md).
 
 <hr>
 
