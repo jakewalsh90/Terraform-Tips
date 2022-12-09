@@ -1,6 +1,6 @@
 ## Using Chocolatey to install Terraform and Supporting Apps
 
-I have setup a Chocolatey script that will provide all the tools you need to work with Terraform on Azure - see [here](/Chocolatey/TerraformApps.ps1) or use the Chocolatey install script below:
+I have setup a Chocolatey script that will provide all the tools you need to work with Terraform on Azure - see [here](/Chocolatey/TerraformApps.ps1) or use the Chocolatey install script below. You will need to run the below within an administrative PowerShell Session. 
 
     #Chocolatey setup and installation script for using Terraform
     #Set Execution Policy to allow script to run
