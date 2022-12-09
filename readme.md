@@ -10,4 +10,5 @@ This Repo is all about sharing Tips and Tricks learnt using whilst Terraform. It
 
 ### List of Tips and Tricks:
 
-1. [Using Count and Length together](/Count-and-Length/) - This explains how to use Count and Length together, allowing dependent Resource creation based on others that use Count. 
+1. [Getting Setup the right way, Use Chocolatey!] - This explains how to get Terraform, and other supporting apps installed easily using Chocolatey. 
+2. [Using Count and Length together](/Count-and-Length/) - This explains how to use Count and Length together, allowing dependent Resource creation based on others that use Count. 
